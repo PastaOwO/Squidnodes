@@ -1,4 +1,5 @@
 1.1
-- Created QuickHair and QuickEyeball BSDFs
-- Renamed Eyebrow/Mouth Color to QuickTeamcolor BSDF
+- Created QuickHair nodegroup to improve hair Fresnel capability
+- Created QuickEyeball nodegroup to improve eye shadow catching
+- Renamed Eyebrow/Mouth Color to QuickTeamcolor
 - Simplified Splatoon BSDF
