@@ -1,0 +1,4 @@
+1.1
+- Created QuickHair and QuickEyeball BSDFs
+- Renamed Eyebrow/Mouth Color to QuickTeamcolor BSDF
+- Simplified Splatoon BSDF
