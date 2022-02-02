@@ -3,3 +3,8 @@
 - Created QuickEyeball nodegroup to improve eye shadow catching
 - Renamed Eyebrow/Mouth Color to QuickTeamcolor
 - Simplified Splatoon BSDF
+
+1.2
+- Improved accuracy of Transmission BSDF with Fresnel effect
+- Added Alpha Texture input to fix Alpha not applying to Transmission BSDF when rendering in Cycles
+- Changed NRM/RGH/TCL/TRM textures in QuickEyeball, QuickTeamcolor to Non-Color mode from Raw
