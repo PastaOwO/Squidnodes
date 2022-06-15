@@ -8,3 +8,11 @@
 - Improved accuracy of Transmission BSDF with Fresnel effect
 - Added Alpha Texture input to fix Alpha not applying to Transmission BSDF when rendering in Cycles
 - Changed NRM/RGH/TCL/TRM textures in QuickEyeball, QuickTeamcolor to Non-Color mode from Raw
+
+1.3
+- Transmission overhaul, Includes:
+  - Entirely overhauled system for Subsurface-Type transmission in the Transmission BSDF (now responds to environment)
+  - Improved handling of textures and tinting
+  - Rearranged and added inputs
+- Fixed typo: IQR -> IOR
+- Labeled nodes inside groups to make community improvements and involvement easier
