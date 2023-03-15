@@ -3,22 +3,23 @@ Here, we aim to provide helpful resources, tips and tutorials to allow you to us
 
 Take a look through the wiki to learn about Squidnodes, or access the external resources below.
 
-## External Resources/Links
-
-> [Deepsea Knowledge Wiki](https://wiki.oatmealdome.me/Main_Page) : Created to assist Nintendo modders, has a lot of information on textures used in Splatoon.
-
-> [Splatoon Wiki](https://splatoonwiki.org/wiki/Main_Page) : Wiki for Splatoon 1 & 2, very comprehensive and reliable. 
-
-> [The Models Resource](https://www.models-resource.com/nintendo_switch/splatoon2/) : Site dedicated to ripping models and other assets from games, has an extremely comprehensive catalogue of Splatoon 2 models.
-
-> [Splatoon Mega Drive](https://mega.nz/folder/3roxBA7D#n0Fl5EcWrb9K1Sjcjh-7zw) : Enormous datadump of hundreds of models from Splatoon 2 and Octo Expansion, including a number that cannot be found on The Models Resource
-
-> [The Cutting Room Floor](https://tcrf.net/Splatoon_2) : Information about deeper game mechanics and unused assets from Splatoon 1 & 2.
-
 # Terms Of Use
 1. DO NOT REDISTRIBUTE, Link back to the original download page only.
 2. Give credit when sharing creations made with Squidnodes.
 3. Do not claim that Squidnodes belongs to, or was created by you.
+4. If you are using Squidnodes for commissions/any other commercial activity, you MUST use the watermark in the drive link below on any copies of the image shared publicly. A non-watermarked version can be used by the commissioner for personal use, but they must also share the watermarked version when sharing it.
+
+> Watermark Link: https://drive.google.com/file/d/1rzUKLZzVVMfJpLS0kqB8AWXLEZtdXIir/view?usp=sharing
+
+## External Resources/Links
+
+> [Deepsea Knowledge Wiki](https://wiki.oatmealdome.me/Main_Page) : Created to assist Nintendo modders, has a lot of information on textures used in Splatoon.
+
+> [Splatoon Wiki](https://splatoonwiki.org/wiki/Main_Page) : Wiki for Splatoon 1, 2 and 3, very comprehensive and reliable. 
+
+> [The Models Resource](https://www.models-resource.com/nintendo_switch/splatoon2/) : Site dedicated to ripping models and other assets from games, has an extremely comprehensive catalogue of Splatoon 2 and 3 models.
+
+> [The Cutting Room Floor](https://tcrf.net/Splatoon_2) : Information about deeper game mechanics and unused assets from Splatoon 1 & 2.
 
 # Downloading Squidnodes
 
